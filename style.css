@@ -50,3 +50,7 @@ a {
     height: 200px;
     margin-right: 20px;
 }
+
+ul {
+    word-wrap: break-word;
+}
